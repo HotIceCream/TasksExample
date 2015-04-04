@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TasksExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="launch_a">Launch A</string>
+    <string name="launch_b">Launch b</string>
+    <string name="launch_c">Launch C</string>
+    <string name="launch_d">Launch D</string>
+    <string name="launch_x">Launch X</string>
+    <string name="launch_y">Launch Y</string>
+    <string name="launch_z">Launch Z</string>
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="activity_c">Activity C</string>
+    <string name="activity_d">Activity D</string>
+    <string name="activity_x">Activity X</string>
+    <string name="activity_y">Activity Y</string>
+    <string name="activity_z">Activity Z</string>
+</resources>

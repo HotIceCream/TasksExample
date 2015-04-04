@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.hiddencontrol.tasksexample">
+
+    <application>
+
+        <activity
+            android:name=".ui.DActivity"
+            android:label="@string/activity_d"
+            android:launchMode="standard"
+            android:taskAffinity=".task1" />
+
+    </application>
+
+</manifest>
